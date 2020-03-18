@@ -1,7 +1,1 @@
-# discourse-header-submenus
-
-A theme component that allows you to build a header menu - with submenus - using plain text!
-
-More information <a href="https://meta.discourse.org/t">https://meta.discourse.org/</a>
-
-<a href="https://github.com/claviska/jquery-dropdown">jquery-dropdown</a> courtesy of Cory LaViska - MIT license
+This is a fork of https://github.com/discourse/discourse-header-submenus with simpler editing. See https://meta.discourse.org/t/paid-header-submenus-ui-modification/144275.
